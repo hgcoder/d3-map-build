@@ -1,0 +1,25 @@
+{
+  "name": "d3-map-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "16081267",
+  "license": "ISC",
+  "dependencies": {
+    "user": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgcoder/d3-map-build.git"
+  },
+  "keywords": [
+    "d3-map-build"
+  ],
+  "bugs": {
+    "url": "https://github.com/hgcoder/d3-map-build/issues"
+  },
+  "homepage": "https://github.com/hgcoder/d3-map-build#readme"
+}
